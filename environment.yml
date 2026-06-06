@@ -1,0 +1,22 @@
+name: face-age-gender
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pytorch
+  - torchvision
+  - pytorch-cuda=12.1
+  - datasets
+  - huggingface_hub
+  - pillow
+  - scikit-learn
+  - scikit-image
+  - joblib
+  - matplotlib
+  - pandas
+  - tqdm
+  - streamlit

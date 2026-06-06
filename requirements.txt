@@ -1,0 +1,12 @@
+torch
+torchvision
+datasets
+huggingface-hub
+pillow
+scikit-learn
+scikit-image
+joblib
+matplotlib
+pandas
+tqdm
+streamlit
